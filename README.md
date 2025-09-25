@@ -8,3 +8,5 @@ To setup:
 
 Building an executable:
 Electron builder is included so on windows you can just do "npm run dist" and it'll build the exe both unpacked and in an installer
+
+![Roll20 logged in](https://i.imgur.com/vJYf13q.png)
